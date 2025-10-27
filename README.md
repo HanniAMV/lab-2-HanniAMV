@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Hannia Monserrat Valencia Medina
+- Matrícula: S24016696
+- Fecha: 26/10/2025
 
 ## 🎯 Objetivos
 
